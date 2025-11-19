@@ -5,6 +5,7 @@
 **Google Play Release Date:** 5 November 2025
 
 ![](img1.jpg)
+![](img2.jpg)
 
 ## Download
 <!-- [<img src="./source/coolapk-badge.png" width="323" height="125" />](https://www.coolapk.com/apk/com.absinthe.libchecker) -->
