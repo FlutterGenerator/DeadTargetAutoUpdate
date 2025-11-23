@@ -1,8 +1,8 @@
 # DeadTargetAutoUpdate
 [![DeadTargetAutoUpdate Build](https://github.com/FlutterGenerator/DeadTargetAutoUpdate/actions/workflows/build-apk.yml/badge.svg)](https://github.com/FlutterGenerator/DeadTargetAutoUpdate/actions/workflows/build-apk.yml)
 
-# DeadTarget Version: (563009063) – 4.163.0
-**Google Play Release Date:** 5 November 2025
+# DeadTarget Version: (564009063) – 4.164.0
+**Google Play Release Date:** 20 November 2025
 
 ![](img1.jpg)
 ![](img2.jpg)
