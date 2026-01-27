@@ -7,7 +7,7 @@ android {
     namespace = "com.android.support"
     defaultConfig {
         applicationId "com.android.support"
-        minSdkVersion 21
+        minSdkVersion 23
         targetSdkVersion 33
         versionCode 1
         versionName "3.0"
