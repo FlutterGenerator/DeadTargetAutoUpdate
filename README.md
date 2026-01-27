@@ -4,7 +4,7 @@
 [![License Info](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/DeadTargetAutoUpdate/blob/master/LICENSE)
 
 # DeadTarget Version: (568009063) – 4.168.0
-**Google Play Release Date:** 20 November 2025
+**Google Play Release Date:** 12 January 2026
 
 ![](img1.jpg)
 ![](img2.jpg)
