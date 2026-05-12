@@ -21,7 +21,6 @@ public class Main {
         private static native void CheckOverlayPermission(Context context);
 
         public static void StartWithoutPermission(Context context) {
-                CrashHandler.init(context, true);
                 if (context instanceof Activity) {
                         // Check if context is an Activity.
                         Menu menu = new Menu(context);
@@ -33,8 +32,6 @@ public class Main {
         }
 
         public static void Start(Context context) {
-                CrashHandler.init(context, false);
-
                 CheckOverlayPermission(context);
         }
 }
